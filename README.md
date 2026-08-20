@@ -77,6 +77,8 @@ PTEN-Variant-Analysis/
     ├── PTEN_domain_structure.png
     ├── PTEN_3D_structure.png
     └── variant_prediction_summary.png
+```
+
 ## Documentation
 
 Detailed information about the analysis is available in:
@@ -110,3 +112,4 @@ St. Xavier's College, Burdwan
 **PTEN Variant Analysis**
 
 In silico computational analysis of selected human PTEN variants using multiple bioinformatics tools and publicly available databases.
+
