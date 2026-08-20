@@ -89,6 +89,7 @@ Detailed information about the analysis is available in:
 
 - [Methodology](docs/METHODOLOGY.md)
 - [Results](docs/RESULTS.md)
+- - [References & Citation](CITATION.md)
 
 ## Dataset
 
