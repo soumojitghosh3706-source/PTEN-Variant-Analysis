@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project presents an **in silico analysis of selected human PTEN variants** to investigate their potential functional, structural, stability-related, and clinical significance.
-
-Ten amino-acid substitutions in the human PTEN protein were analysed using multiple computational prediction tools and publicly available clinical resources.
+The primary objective of this project is to evaluate the potential functional, structural, stability-related, and clinical consequences of selected PTEN amino-acid substitutions by integrating results from multiple computational prediction tools and clinical databases.
 
 ## Variants Analysed
 
