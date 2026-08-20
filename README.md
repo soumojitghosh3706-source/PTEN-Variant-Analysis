@@ -77,3 +77,36 @@ PTEN-Variant-Analysis/
     ├── PTEN_domain_structure.png
     ├── PTEN_3D_structure.png
     └── variant_prediction_summary.png
+## Documentation
+
+Detailed information about the analysis is available in:
+
+- [Methodology](docs/METHODOLOGY.md)
+- [Results](docs/RESULTS.md)
+
+## Dataset
+
+The complete integrated dataset is provided in two formats:
+
+- [PTEN Variant Analysis — Excel](data/PTEN_variant_analysis.xlsx)
+- [PTEN Variant Analysis — CSV](data/PTEN_variant_analysis.csv)
+
+The Excel workbook serves as the primary working dataset, while the CSV provides a machine-readable version.
+
+## Limitations
+
+This project represents an **in silico computational analysis**. Computational predictions and database annotations do not constitute experimental confirmation of altered PTEN structure, stability, enzymatic activity, cellular function, or disease mechanism.
+
+Experimental validation would be required to establish the molecular consequences of individual variants.
+
+## Author
+
+**Soumojit Ghosh**  
+Undergraduate Biotechnology Student  
+St. Xavier's College, Burdwan
+
+### Project
+
+**PTEN Variant Analysis**
+
+In silico computational analysis of selected human PTEN variants using multiple bioinformatics tools and publicly available databases.
